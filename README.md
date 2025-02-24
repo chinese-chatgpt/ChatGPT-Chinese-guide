@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内免费访问指南【2月持续更新】      
 
-> **更新时间：2025年02月24日**       
+> **更新时间：2025年02月25日**      
 
 **全面使用 [ChatGPT 中文版](https://www.yixiaai.com)，无需翻墙，支持 GPT-4、GPT-4o、o1、o3 及中文版功能服务！**
 
@@ -22,7 +22,7 @@
 
 ## 什么是 ChatGPT 中文版？
 
-[**ChatGPT 中文版**](https://www.yixiaai.com)是 OpenAI 开发的 ChatGPT 模型的中文专业版本，为中文用户提供更流畅、更精准的 AI对话体验。
+[**ChatGPT 中文版**](https://chat.yixiaai.com)是 OpenAI 开发的 ChatGPT 模型的中文专业版本，为中文用户提供更流畅、更精准的 AI对话体验。
 
 相较于官网，**ChatGPT 中文版**在以下方面更适合国内用户：
 
@@ -37,12 +37,12 @@
 下面是精选的国内 **ChatGPT 中文版镜像网站**，提供更高效的**ChatGPT 中文版**使用体验：
 
 | 中文站网址                                   | 支持模型                         | 稳定性 | 功能亮点                                                         |
-|---------------------------------------|----------------------------------|--------|------------------------------------------------------------------|
-| **[yixiaai.com](https://www.yixiaai.com)** | GPT-4, GPT-4o, o1, o3 | ⭐⭐⭐⭐⭐  | **ChatGPT 中文版**，支持 AI大模型、AI绘画、AI助手、AI插件等，适合学生党和打工人 |
-| **[chat.lify.vip](https://chat.lify.vip)**     | GPT-4, GPT-4o, o1, o3 | ⭐⭐⭐⭐⭐  | **ChatGPT 镜像网站**，支持 4o、o1、o3 等全模型，支持 AI 写作、AI 编程、AI 办公，满足多种行业需求   |
-| **[guide1.lanjing.ai](https://guide1.lanjing.ai)** | GPT-4, GPT-4o, o1     | ⭐⭐⭐⭐   | 提供 AI 使用指南，ChatGPT 中文版使用指南                       |
-| **[yixiaai.cn](https://yixiaai.cn)**           | GPT-4, GPT-3.5, 4o mini           | ⭐⭐⭐⭐   | AI 工具导航网站，汇聚大量工具，满足你的各种需求                   |
-| **[lanjing.ai](https://lanjing.ai)**            | GPT-4, GPT-3.5, 4o mini           | ⭐⭐⭐    | 使用简单，易于上手，适合新手用户                                   |
+|----------------------------------------------|----------------------------------|--------|------------------------------------------------------------------|
+| **[chat.yixiaai.com](https://chat.yixiaai.com)** | GPT-4, GPT-4o, o1, o3            | ⭐⭐⭐⭐⭐  | **ChatGPT 中文版**，支持 AI大模型、AI绘画、AI助手、AI插件等，适合学生党和打工人 |
+| **[chat.lify.vip](https://chat.yixiaai.com)**     | GPT-4, GPT-4o, o1, o3            | ⭐⭐⭐⭐⭐  | **ChatGPT 镜像网站**，支持 4o、o1、o3 等全模型，支持 AI 写作、AI 编程、AI 办公，满足多种行业需求   |
+| **[guide1.lanjing.ai](https://guide1.lanjing.ai)** | GPT-4, GPT-4o, o1                | ⭐⭐⭐⭐   | 提供 AI 使用指南，ChatGPT 中文版使用指南                       |
+| **[yixiaai.cn](https://yixiaai.cn)**           | GPT-4, GPT-3.5, 4o mini          | ⭐⭐⭐⭐   | AI 工具导航网站，汇聚大量工具，满足你的各种需求                   |
+| **[lanjing.ai](https://lanjing.ai)**            | GPT-4, GPT-3.5, 4o mini          | ⭐⭐⭐    | 使用简单，易于上手，适合新手用户                                   |
 
 ---
 
