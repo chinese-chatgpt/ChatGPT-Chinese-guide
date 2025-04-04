@@ -1,4 +1,4 @@
-# ChatGPT 中文版：国内免费访问指南【2025/04/04 持续更新】           
+# ChatGPT 中文版：国内免费访问指南【2025/04/05 持续更新】            
 
 **全面使用 [ChatGPT 中文版](https://chat.yixiaai.com)，无需翻墙，支持 GPT-4、GPT-4o、o1、o3 及中文版功能服务！**
 
@@ -39,7 +39,7 @@
 | **[chat.yixiaai.com](https://chat.yixiaai.com)** | GPT-4, GPT-4o, o1, o3            | ⭐⭐⭐⭐⭐  | **ChatGPT 中文版**，支持 AI大模型、AI绘画、AI助手、AI插件等，适合学生党和打工人 |
 | **[chat.lanjing.pro](https://chat.lanjing.pro)**  | GPT-4, GPT-3.5, o1, o3, DeepSeek-R1, Claude 3.7 sonnet  | ⭐⭐⭐⭐⭐  | 使用简单，先进大模型，适合新手用户          |
 | **[chat.lify.vip](https://www.yixiaai.com)**     | GPT-4, GPT-4o, o1, o3            | ⭐⭐⭐⭐⭐  | **ChatGPT 镜像网站**，支持 4o、o1、o3 等全模型，支持 AI 写作、AI 编程、AI 办公，满足多种行业需求   |
-| **[guide1.lanjing.pro](https://guide1.lanjing.pro)** | GPT-4, GPT-4o, o1                | ⭐⭐⭐⭐   | 提供 AI 使用指南，ChatGPT 中文版使用指南                       |
+| **[chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com)** | GPT-4, GPT-4o, o1                | ⭐⭐⭐⭐   | 提供 AI 使用指南，ChatGPT 中文版使用指南                       |
 | **[yixiaai.cn](https://yixiaai.cn)**           | GPT-4, GPT-3.5, 4o mini          | ⭐⭐⭐⭐   | AI 工具导航网站，汇聚大量工具，满足你的各种需求                   |
 | **[lanjing.pro](https://lanjing.pro)**            | GPT-4, GPT-3.5, 4o mini          | ⭐⭐⭐    | 使用简单，易于上手，适合新手用户                                   |
 
